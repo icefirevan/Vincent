@@ -1,6 +1,5 @@
 import websocket
 print('welcome to vincent')
-kuaisu
-fsre
+print('i\'m learning')
 
 
